@@ -1,0 +1,15 @@
+{
+  "name": "vz.task",
+  "version": "1.0.0",
+  "description": "Asynchronous tasks using requestAnimationFrame",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/manvalls/vz.task.git"
+  },
+  "bugs": {
+    "url": "https://github.com/manvalls/vz.task/issues"
+  },
+  "author": "Manuel Valls Fernández <manolo@chatiku.com>",
+  "license": "LGPL-3.0"
+}
