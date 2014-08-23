@@ -17,7 +17,7 @@ var Task = require('vz.task'),
         console.log('ok, so much time have passed, let\'s end this');
         this.stop();
       }else if(Math.random() < 0.02){
-        console.log('you know what, I'm gonna start over again');
+        console.log('you know what, I\'m gonna start over again');
         this.restart();
       }else if(Math.random() < 0.02){
         console.log('omg just look at the time! IT\'S PAUSE TIME!');
