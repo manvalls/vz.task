@@ -1,6 +1,6 @@
 {
   "name": "vz.task",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Asynchronous tasks using requestAnimationFrame",
   "main": "main.js",
   "repository": {
